@@ -7,15 +7,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/typing-dark.svg?lines=Developing%20backend%20logic%20in%20TS%2C%20C%2B%2C%20C%23%2C%20Js&font=JetBrains%20Mono&size=17&width=450&center=true" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/typing-light.svg?lines=Developing%20backend%20logic%20in%20TS%2C%20C%2B%2C%20C%23%2C%20Js&font=JetBrains%20Mono&size=17&width=450&center=true" alt="Developing backend logic in TS, C+, C#, Js" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/typing-dark.svg?lines=Developing%20backend%20logic%20in%20TS%2C%20C%2B%2C%20C%23%2C%20Js&font=JetBrains%20Mono&size=17&width=450&center=true" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/typing-light.svg?lines=Developing%20backend%20logic%20in%20TS%2C%20C%2B%2C%20C%23%2C%20Js&font=JetBrains%20Mono&size=17&width=450&center=true" alt="Developing backend logic in TS, C+, C#, Js" />
   </picture>
 </p>
-
-<!-- studio:split w=60.a -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
 
 ### About me
 
@@ -29,54 +24,29 @@ Code → Coffee → Sleep → Repeat♻️
 
 **Reach me:** [email](mailto:kiprotichibuh@gmail.com)
 
-<img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
-
-<img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
-</td>
-    <td width="40%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-stats-dark.svg?show_icons=true" />
-        <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-stats-light.svg?show_icons=true" alt="GitHub stats" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<!-- studio:langs+streak -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-langs-dark.svg?layout=compact&langs_count=8" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-langs-light.svg?layout=compact&langs_count=8" alt="Top languages" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-streak-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-streak-light.svg" alt="GitHub streak" width="49%" />
-  </picture>
-</p>
-
 <!-- studio:stack -->
 <h2 align="center">Tools I use</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-dark.svg?i=html%2Cts&perline=10" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-light.svg?i=html,ts&perline=10" alt="Tech stack: html, ts" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-dark.svg?i=html%2Cts&perline=10" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-light.svg?i=html,ts&perline=10" alt="Tech stack: html, ts" />
   </picture>
 </p>
 
 <p align="center">
   <b>Frontend</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-frontend-dark.svg?i=css%2Cjs%2Creact%2Cnextjs%2Cvue%2Csvelte%2Ctailwind%2Cvite&perline=10" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-frontend-light.svg?i=css,js,react,nextjs,vue,svelte,tailwind,vite&perline=10" alt="Frontend: css, js, react, nextjs, vue, svelte, tailwind, vite" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-frontend-dark.svg?i=css%2Cjs%2Creact%2Cnextjs%2Cvue%2Csvelte%2Ctailwind%2Cvite&perline=10" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-frontend-light.svg?i=css,js,react,nextjs,vue,svelte,tailwind,vite&perline=10" alt="Frontend: css, js, react, nextjs, vue, svelte, tailwind, vite" />
   </picture>
 </p>
 
 <p align="center">
   <b>Backend</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-backend-dark.svg?i=nodejs%2Cexpress%2Cgo%2Crust%2Cjava%2Cspring%2Cdjango%2Cpostgres%2Credis%2Cpy&perline=10" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/stack-backend-light.svg?i=nodejs,express,go,rust,java,spring,django,postgres,redis,py&perline=10" alt="Backend: nodejs, express, go, rust, java, spring, django, postgres, redis, py" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-backend-dark.svg?i=nodejs%2Cexpress%2Cgo%2Crust%2Cjava%2Cspring%2Cdjango%2Cpostgres%2Credis%2Cpy&perline=10" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/stack-backend-light.svg?i=nodejs,express,go,rust,java,spring,django,postgres,redis,py&perline=10" alt="Backend: nodejs, express, go, rust, java, spring, django, postgres, redis, py" />
   </picture>
 </p>
 
@@ -84,22 +54,10 @@ Code → Coffee → Sleep → Repeat♻️
 <h2 align="center">Featured projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Ibkiko26/CODING-ESSENTIALS-HTML-CSS-"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-coding-essentials-html-css-dark.svg?username=Ibkiko26&repo=CODING-ESSENTIALS-HTML-CSS-" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-coding-essentials-html-css-light.svg?username=Ibkiko26&repo=CODING-ESSENTIALS-HTML-CSS-" alt="CODING-ESSENTIALS-HTML-CSS-" />
-  </picture></a>
-  <a href="https://github.com/Ibkiko26/SAVE-YT-VIDZ"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-save-yt-vidz-dark.svg?username=Ibkiko26&repo=SAVE-YT-VIDZ" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-save-yt-vidz-light.svg?username=Ibkiko26&repo=SAVE-YT-VIDZ" alt="SAVE-YT-VIDZ" />
-  </picture></a>
-  <a href="https://github.com/Ibkiko26/BABE-SPECIAL-MESSAGE-HGD"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-babe-special-message-hgd-dark.svg?username=Ibkiko26&repo=BABE-SPECIAL-MESSAGE-HGD" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-babe-special-message-hgd-light.svg?username=Ibkiko26&repo=BABE-SPECIAL-MESSAGE-HGD" alt="BABE-SPECIAL-MESSAGE-HGD" />
-  </picture></a>
-  <a href="https://github.com/Ibkiko26/Girlfriends-Day-Message-Animated"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-girlfriends-day-message-animated-dark.svg?username=Ibkiko26&repo=Girlfriends-Day-Message-Animated" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/card-repo-girlfriends-day-message-animated-light.svg?username=Ibkiko26&repo=Girlfriends-Day-Message-Animated" alt="Girlfriends-Day-Message-Animated" />
-  </picture></a>
+  <a href="https://github.com/Ibkiko26/CODING-ESSENTIALS-HTML-CSS-">CODING-ESSENTIALS-HTML-CSS</a> ·
+  <a href="https://github.com/Ibkiko26/SAVE-YT-VIDZ">SAVE-YT-VIDZ</a> ·
+  <a href="https://github.com/Ibkiko26/BABE-SPECIAL-MESSAGE-HGD">BABE-SPECIAL-MESSAGE-HGD</a> ·
+  <a href="https://github.com/Ibkiko26/Girlfriends-Day-Message-Animated">Girlfriends-Day-Message-Animated</a>
 </p>
 
 <!-- studio:details -->
@@ -116,20 +74,19 @@ Code → Coffee → Sleep → Repeat♻️
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahkiprotich27/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-linkedin-dark.svg?i=linkedin" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-linkedin-light.svg?i=linkedin" alt="LinkedIn" width="40" />
-  </picture></a>
+  <a href="https://www.linkedin.com/in/ibrahkiprotich27/">
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-linkedin-dark.svg?i=linkedin" alt="LinkedIn" width="40" />
+  </a>
   <a href="mailto:kiprotichibuh@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-email-dark.svg?i=gmail" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-email-light.svg?i=gmail" alt="Email" width="40" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-email-dark.svg?i=gmail" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-email-light.svg?i=gmail" alt="Email" width="40" />
   </picture></a>
   <a href="https://x.com/Ibrahkiprotich"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-x-dark.svg?i=twitter" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-x-light.svg?i=twitter" alt="X" width="40" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-x-dark.svg?i=twitter" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-x-light.svg?i=twitter" alt="X" width="40" />
   </picture></a>
   <a href="https://www.instagram.com/ibkiko/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-instagram-dark.svg?i=instagram" />
-    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/profile-assets/icon-instagram-light.svg?i=instagram" alt="Instagram" width="40" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-instagram-dark.svg?i=instagram" />
+    <img src="https://raw.githubusercontent.com/Ibkiko26/Ibkiko26/main/icon-instagram-light.svg?i=instagram" alt="Instagram" width="40" />
   </picture></a>
 </p>
